@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"isbn":{"$numberInt":"1"}},"name":"isbn_1","background":true,"unique":true},{"v":{"$numberInt":"2"},"key":{"price":{"$numberInt":"1"}},"name":"price_1","background":true}],"uuid":"2b18770d253e47e2934bc914075ea7e1","collectionName":"books","type":"collection"}
