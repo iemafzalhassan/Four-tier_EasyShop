@@ -1,8 +1,8 @@
 # EasyShop Frontend
 [![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/iemafzalhassan)
-![Docker Image](https://img.shields.io/github/forks/iemafzalhassan/easyshop)
-[![Stars](https://img.shields.io/github/stars/iemafzalhassan/easyshop)](https://github.com/iemafzalhassan/easyshop)
-![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/easyshop?color=red)
+![Docker Image](https://img.shields.io/github/forks/iemafzalhassan/Four-tier_EasyShop)
+[![Stars](https://img.shields.io/github/stars/iemafzalhassan/Four-tier_EasyShop)](https://github.com/iemafzalhassan/Four-tier_EasyShop)
+![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/Four-tier_EasyShop?color=red)
 <p align="center">
   <img src="frontend/public/assets/logo.svg" alt="EasyShop Logo" width="200"/>
 </p>
