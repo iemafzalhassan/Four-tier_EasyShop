@@ -214,10 +214,10 @@ docker run -d \
   -e JWT_SECRET=eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTczNzAwMzQ1MCwiaWF0IjoxNzM3MDAzNDUwfQ.zQZPWfJHpoW4lwQZBtUIiPmqhYt_1L-Y5f7TwfP7mjE \
   -e FRONTEND_URL=http://localhost:3000 \
   -e REDIS_URL="redis://:easyshop_redis_123@easyshop-redis:6379" \
-  -e STRIPE_SECRET_KEY=sk_test_51OgIQESJvlxaCDRKgVVYgXwsZryvF6Q1BcuNJaxHZFHWTGQkNqzMQPUyoYMVEFCGWEtNIqcRNaH9tCc9HJBLzxbC00vQcPEqEq \
-  -e CLOUDINARY_CLOUD_NAME=dxqhpvxz7 \
-  -e CLOUDINARY_API_KEY=583115484545148 \
-  -e CLOUDINARY_API_SECRET=7K-2PlUoOxBVQgr2FJqOZPnOJcY \
+  -e STRIPE_SECRET_KEY=your_stripe_secret_key \
+  -e CLOUDINARY_CLOUD_NAME=your_cloud_name \
+  -e CLOUDINARY_API_KEY=your_cloud_api_key \
+  -e CLOUDINARY_API_SECRET=your_cloud_api_secret \
   easyshop-backend
 ```
 
