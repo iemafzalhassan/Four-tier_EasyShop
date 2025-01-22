@@ -15,6 +15,7 @@ RUN apk add --no-cache python3 make g++ curl
 
 # Copy package files
 COPY package*.json ./
+COPY package-lock.json ./
 
 # Install production dependencies with clean cache
 RUN npm ci --only=production && \
